@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background-color: red;
+}
+.extra{
+    margin: auto;
+    padding: 3px;
+    max-width: 40vh;
+}
+.button{
+    margin-top: auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.input{
+    height: 20px;
+    width: 255px;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
